@@ -1,2 +1,3 @@
-# reactTest9.24
-Created with CodeSandbox
+# react-ts-5n3m4c
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-5n3m4c)
